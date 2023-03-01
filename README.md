@@ -10,5 +10,3 @@ Além disso, no momento apenas ações com tickers dos Estados Unidos estão ope
 Em futuras versões será incluída algumas funções e melhorias no código, como: Janela interativa,  data em formato brasileiro, lista suspensa com todos os tickers, possibilidade de outras bolsas e etc.
 
 Dúvidas e sugestões entre em contato pelo GitHub =)
-
-Iniciando GET Bolsa
